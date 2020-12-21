@@ -1,1 +1,3 @@
-"# wykres-kolowy-splupkowy" 
+<ul>
+  <li>wykres-kolowy-splupkowy</li>
+</ul>
