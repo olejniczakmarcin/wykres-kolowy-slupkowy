@@ -1,3 +1,3 @@
 <ul>
-  <li>"wykres-kolowy-splupkowy"</li>
+  <li>"wykres-kolowy-slupkowy"</li>
 </ul>
